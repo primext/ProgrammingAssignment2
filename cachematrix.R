@@ -1,4 +1,4 @@
-## Author: Pallav Pathak
+## Author: primext
 ## Date: 5/21/2014
 
 ## Function: makeCacheMatrix
